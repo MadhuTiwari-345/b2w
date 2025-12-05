@@ -1,0 +1,5 @@
+{
+  "name": "B2W Video Recommendation Assistant",
+  "description": "A smart video service recommendation engine for b2w.tv using Gemini AI to match user needs with specific video production services.",
+  "requestFramePermissions": []
+}
