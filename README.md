@@ -1,6 +1,3 @@
-**Here’s a fully elaborated `README.md` draft for your `b2w` project. It’s structured to be beginner-friendly, professional, and hackathon-ready.**
-
-
 
 # 🎬 B2W – AI Video Recommendation Assistant
 
@@ -18,13 +15,10 @@ B2W (**Browse to Watch**) is an **AI-powered video recommendation system** built
   - [Installation](#installation)
   - [Environment Setup](#environment-setup)
   - [Run Locally](#run-locally)
-- [Deployment](#deployment)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-- [Demo / Screenshots](#demo--screenshots)
-
 
 
 ## 🌍 Overview
@@ -35,7 +29,6 @@ B2W helps users **find the right video at the right time**. Instead of endlessly
 - AI-driven recommendation research
 
 
-
 ## ✨ Features
 - 🔹 **AI Recommendations**: Uses Gemini API for intelligent video suggestions.  
 - 🔹 **Interactive UI**: Built with React + TypeScript for modular components.  
@@ -44,13 +37,11 @@ B2W helps users **find the right video at the right time**. Instead of endlessly
 - 🔹 **Developer Friendly**: Easy setup with npm and clear configuration.  
 
 
-
 ## 🛠 Tech Stack
 - **Frontend**: React + TypeScript  
 - **Bundler**: Vite  
 - **API Integration**: Google Gemini API  
 - **Languages**: TypeScript (98%), HTML (2%)  
-
 
 
 ## 📂 Project Structure
@@ -69,7 +60,6 @@ b2w/
 │── metadata.json      # Project metadata
 │── .gitignore         # Git ignore rules
 ```
-
 
 
 ## 🚀 Getting Started
@@ -138,6 +128,3 @@ You are free to use, modify, and distribute with attribution.
 - [React](https://react.dev/)  
 - Inspiration from hackathons and AI-driven content discovery projects.  
 
-
-
-👉 Madhu, since you’re preparing for hackathons, adding **screenshots or a short demo GIF** will make your README stand out even more. Do you want me to also draft a **sample “Use Case Scenarios” section** (e.g., how a user interacts with recommendations step by step)?
