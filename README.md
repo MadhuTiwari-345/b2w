@@ -116,12 +116,6 @@ Contributions are welcome!
 
 
 
-## 📜 License
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute with attribution.
-
-
-
 ## 🙏 Acknowledgements
 - [Google Gemini API](https://ai.google.dev/)  
 - [Vite](https://vitejs.dev/)  
