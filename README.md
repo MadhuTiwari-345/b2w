@@ -20,6 +20,7 @@ B2W (**Browse to Watch**) is an **AI-powered video recommendation system** built
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
+---
 
 ## 🌍 Overview
 B2W helps users **find the right video at the right time**. Instead of endlessly scrolling, the assistant uses AI to recommend videos tailored to your preferences. This project is ideal for:
@@ -28,6 +29,7 @@ B2W helps users **find the right video at the right time**. Instead of endlessly
 - Personalized entertainment apps
 - AI-driven recommendation research
 
+---
 
 ## ✨ Features
 - 🔹 **AI Recommendations**: Uses Gemini API for intelligent video suggestions.  
@@ -36,6 +38,7 @@ B2W helps users **find the right video at the right time**. Instead of endlessly
 - 🔹 **Customizable Services**: Extendable architecture with `components/` and `services/`.  
 - 🔹 **Developer Friendly**: Easy setup with npm and clear configuration.  
 
+---
 
 ## 🛠 Tech Stack
 - **Frontend**: React + TypeScript  
@@ -43,6 +46,7 @@ B2W helps users **find the right video at the right time**. Instead of endlessly
 - **API Integration**: Google Gemini API  
 - **Languages**: TypeScript (98%), HTML (2%)  
 
+---
 
 ## 📂 Project Structure
 ```
@@ -61,6 +65,7 @@ b2w/
 │── .gitignore         # Git ignore rules
 ```
 
+---
 
 ## 🚀 Getting Started
 
@@ -103,7 +108,7 @@ You can deploy B2W easily on:
 - Browse results in an interactive UI.  
 - Extend services to integrate with external video platforms (YouTube, Vimeo, etc.).  
 
-
+---
 
 ## 🤝 Contributing
 Contributions are welcome!  
@@ -113,7 +118,7 @@ Contributions are welcome!
 4. Push (`git push origin feature-name`)  
 5. Open a Pull Request  
 
-
+---
 
 ## 🙏 Acknowledgements
 - [Google Gemini API](https://ai.google.dev/)  
@@ -121,3 +126,4 @@ Contributions are welcome!
 - [React](https://react.dev/)  
 - Inspiration from hackathons and AI-driven content discovery projects.  
 
+---
