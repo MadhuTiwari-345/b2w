@@ -3,7 +3,7 @@
 
 B2W (**Browse to Watch**) is an **AI-powered video recommendation system** built with **TypeScript + Vite + React**. It integrates with the **Google Gemini API** to deliver personalized video suggestions, making content discovery smarter and more engaging.
 
-
+---
 
 ## 📑 Table of Contents
 - [Overview](#overview)
