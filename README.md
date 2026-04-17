@@ -86,9 +86,8 @@ GEMINI_API_KEY=your_api_key_here
 ```bash
 npm run dev
 ```
-Visit **http://localhost:5173** to view the app.
 
-
+---
 
 ## 🌐 Deployment
 You can deploy B2W easily on:
@@ -96,7 +95,7 @@ You can deploy B2W easily on:
 - **Netlify**
 - **GitHub Pages**
 
-
+---
 
 ## 📖 Usage
 - Input your **preferences or search query**.  
